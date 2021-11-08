@@ -1,0 +1,6 @@
+salesforce.SharingRules aa__c {
+  fullName = "aa__c"
+  _parent = [
+    salesforce.aa__c,
+  ]
+}
